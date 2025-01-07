@@ -1,5 +1,6 @@
 # Gen-AI Prompt From URL with LLM
 🚀 An AI-powered project to extract prompts from URLs and leverage Language Models (LLMs) for intelligent responses.
+![image](https://github.com/user-attachments/assets/e07f945e-acc3-4a41-a8cc-c7fe8564d179)
 
 ## Features ✨
 - 📄 **Process documents or URLs** for AI-driven insights.
@@ -27,7 +28,7 @@ To set up the project locally, follow these steps:
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/your-repo/Gen-AI_PromptFromURL_LLM.git
+git clone https://github.com/SarithaKili/Gen-AI_PromptFromURL_LLM.git
 ```
 
 ### Set up a virtual environment:
@@ -70,3 +71,6 @@ python main.py
 -Integrate alternative LLMs like HuggingFace models.
 -Support distributed vector search (e.g., with Pinecone or Weaviate).
 -Enhance prompt generation logic.
+
+-*** REF : https://youtu.be/MoqgmWV1fm8?si=MZNQMVUdrVe6jMTL
+
