@@ -28,3 +28,45 @@ To set up the project locally, follow these steps:
 ### Clone the repository:
 ```bash
 git clone https://github.com/your-repo/Gen-AI_PromptFromURL_LLM.git
+```
+
+### Set up a virtual environment:
+- **For Linux/Mac**
+```bash
+python -m venv venv
+source venv/bin/activate
+```
+  
+- **For Windows**
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+### Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+### Run the main script to start processing:
+```bash
+python main.py
+```
+
+### Input a document or URL for processing.
+### View the generated LLM response🌟
+
+### Directory Structure 📂
+```bash
+📂 Gen-AI_PromptFromURL_LLM
+├── .env                # Environment variables
+├── main.py             # Main script
+├── README.md           # Project documentation
+├── requirements.txt    # Dependencies
+└── faiss_store_openai.pkl  # Precomputed vector store
+```
+
+### Future Improvements 🌟
+-Add support for more document formats (PDF, Word, etc.).
+-Integrate alternative LLMs like HuggingFace models.
+-Support distributed vector search (e.g., with Pinecone or Weaviate).
+-Enhance prompt generation logic.
