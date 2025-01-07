@@ -3,7 +3,9 @@
 
 #Features ✨
 📄 Process documents or URLs for AI-driven insights.
+
 🔍 Retrieve relevant chunks using vector databases.
+
 🤖 Query an LLM for natural language responses.
 🧩 Supports chunking, embeddings, and retrieval augmentation.
 💾 Integration with FAISS for vector similarity search.
